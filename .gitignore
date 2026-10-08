@@ -1,0 +1,5 @@
+asl_alphabet_train/
+asl_alphabet_test/
+__pycache__/
+*.pyc
+.venv/
